@@ -10,7 +10,7 @@ function getAllCars(container = []) {
     container.push(new BMW(`BMW`, 50, `file:///D:/AK/ACA/ACA%20JS/Homework%2012/images/bmw.png`));
     container.push(new Toyota(`Toyota`, 47, `file:///D:/AK/ACA/ACA%20JS/Homework%2012/images/toyota.png`));
     container.push(new Lexus(`Lexus`, 51, `file:///D:/AK/ACA/ACA%20JS/Homework%2012/images/lexus.png`));
-    container.push(new Audi(`Audi`, 49, `file:///D:/AK/ACA/ACA%20JS/Homework%2012/images/mersedes-benz.png`));
+    container.push(new Audi(`Audi`, 49, `file:///D:/AK/ACA/ACA%20JS/Homework%2012/images/sedan-car-front.png`));
 
     return container;
 }
